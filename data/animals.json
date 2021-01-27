@@ -116,34 +116,16 @@
       "personalityTraits": [
         "hungry"
       ],
-      "id": "11"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "12"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "13"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
       "id": "14"
+    },
+    {
+      "name": "Kadan",
+      "species": "Cockatiel",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "15"
     }
   ]
 }
